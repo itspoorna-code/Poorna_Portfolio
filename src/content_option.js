@@ -16,7 +16,7 @@ const introdata = {
   },
   description:
     "A passionate tech enthusiast with good programming and debugging skills, looking for opportunities to leverage my knowledge about current and emerging technologies in Web Development.",
-  your_img_url: profile, // You can replace this with your own image URL
+  your_img_url: profile,
 };
 
 const dataabout = {
@@ -122,7 +122,7 @@ const contactConfig = {
   YOUR_FONE: "+91 9113973290",
   description:
     "I’m open to collaborations, projects, or internships in web development and AI/ML. Feel free to reach out!",
-  // If you plan to use emailjs.com:
+
   YOUR_SERVICE_ID: "service_id",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
