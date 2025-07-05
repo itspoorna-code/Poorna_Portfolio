@@ -14,12 +14,9 @@ My personal portfolio website
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+git clone https://github.com/react-portfolio.git
 
 
-### More
-
-Modify pages content in  `src/content_option.js`.
 
 ### Thanks
 
