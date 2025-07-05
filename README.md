@@ -14,7 +14,7 @@ My personal portfolio website
 
 Get the code
 
-git clone https://github.com/react-portfolio.git
+[git clone https://github.com/react-portfolio.git](https://github.com/itspoorna-code/Poorna_Portfolio.git)
 
 
 
