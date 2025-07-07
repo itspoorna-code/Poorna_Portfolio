@@ -131,6 +131,7 @@ const contactConfig = {
 const socialprofils = {
   github: "https://github.com/itspoorna-code",
   linkedin: "https://www.linkedin.com/in/poornachandrass/",
+  twitter:"https://x.com/itspoorna011",
 };
 
 export {
