@@ -124,14 +124,14 @@ const contactConfig = {
     "I’m open to collaborations, projects, or internships in web development and AI/ML. Feel free to reach out!",
 
   YOUR_SERVICE_ID: "service_wbadjpa",
-  YOUR_TEMPLATE_ID: "template_aujxkdt",
+  YOUR_TEMPLATE_ID: "template_95batno",
   YOUR_USER_ID: "Dsbltq6icTDmcrsOZ",
 };
 
 const socialprofils = {
   github: "https://github.com/itspoorna-code",
   linkedin: "https://www.linkedin.com/in/poornachandrass/",
-  twitter:"https://x.com/itspoorna011",
+  twitter: "https://x.com/itspoorna011",
 };
 
 export {
