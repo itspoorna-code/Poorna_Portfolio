@@ -103,12 +103,12 @@ const dataportfolio = [
   //       "AI Based E-learning Platform with personalized course recommendations.",
   //     link: "#",
   //   },
-  //   {
-  //     img: "https://picsum.photos/400/800/?grayscale",
-  //     description:
-  //       "Hospital Navigation System for non-native speakers using Angular and GeoJSON.",
-  //     link: "#",
-  //   },
+    {
+      img: "https://picsum.photos/400/800/?grayscale",
+      description:
+        "Reminder Application which manages personal tasks and reminders",
+      link: "https://reminder-app-lilac-three.vercel.app/",
+    },
   {
     img: "https://picsum.photos/400/600/?grayscale",
     description:
